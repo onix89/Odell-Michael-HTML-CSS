@@ -5,7 +5,9 @@ main{
   margin-right: auto;
   width: 50%;
 }
-
+h1{
+    text-align: center;
+}
 #img-div{
     max-width: 1000px;
    
@@ -18,3 +20,11 @@ main{
     width: 100%;
     
   }
+a{
+      text-decoration: none;
+      color: black;
+  }
+a:hover{
+    color: brown
+
+}
